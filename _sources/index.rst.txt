@@ -1,0 +1,25 @@
+.. test documentation master file, created by
+   sphinx-quickstart on Sat Jan 21 10:34:52 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Home
+====
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   research
+   publications
+   people
+   classes   
+
+Welcome to the Advanced Reactor Design Simulation (ADRS) group in the department of 
+`Nuclear Engineering <https://du.ac.bd/undergrad/NED/>`_ at Dhaka University!
+
+ARDS focuses on advanced nuclear reactor design simulation which involves using computer models to predict the behavior of next generation nuclear reactors under various operating conditions. These simulations can take into account factors such as advanced fuel behavior, thermal-hydraulics, radiation shielding and neutronics. Neutronics, in particular, is a branch of nuclear engineering that deals with the study of the behavior of neutrons in a reactor and their interactions with the fuel and the surrounding materials. It is essential to the design and operation of nuclear reactors as it determines the distribution of power throughout the core and the performance of the fuel. Another important aspect is high-fidelity thermal-hydraulic analysis which can simulate the flow of coolant and predict the temperature and pressure within a reactor. These simulations can also be used to evaluate the performance of advanced reactors and identify potential issues that may arise during operation. By combining the simulations of neutronics, kinetics, and thermal-hydraulics, engineers can develop a comprehensive understanding of the behavior of a reactor under various operating conditions and make adjustments to the design to improve safety and efficiency.
+
+Our goal is to ensure that our research is widely available to the public and that we work closely with other research teams. You can find our most recent work on `Github <https://github.com/du-ards>`_, where we regularly share our findings.
+
+Please have a look around to learn more about ARDS, its collaborators and its research!
