@@ -1,8 +1,0 @@
-Classes
-=======
-
-Instructors in DU ARDS regularly teach the following courses
-
-**NE-4103: Nuclear Power Plant Design and Features**
-
-This course is designed to facilitate the students to attain a thorough idea of how the nuclear power plant is designed, operated and controlled. The course mostly focuses on the typical core design requirements, design variables & constraints, design codes and procedure, basics of LWRs design; structure, function and working principles of the components of primary and secondary circuits; control of reactor during startup, normal operation and shutdown; plant maintenance and outage. The course also covers the topics of grid substation and power plant economics. To get an experience of reactor operation, students will carry out plant analysis in the case of normal operation, plant transient and accident condition using plant simulator available in the department. The students are required to have basic knowledge of reactor physics, thermal hydraulics/thermal engineering and materials science in order to complete this course effectively.
